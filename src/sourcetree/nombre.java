@@ -3,8 +3,7 @@ package sourcetree;
 public class nombre {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		system.out.println("barabarabara bereberebere")
 	}
 
 }
